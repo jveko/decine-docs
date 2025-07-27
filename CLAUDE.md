@@ -73,3 +73,11 @@ Decine is a streaming service application that provides users with a clean, simp
 - Provide clear prerequisites and step-by-step instructions
 - Include both basic usage and advanced user features
 - Keep content evergreen - avoid version-specific details unless necessary
+
+### Multi-Language Requirements
+- **ALWAYS create content in both English and Indonesian**
+- English content goes in `/en/` directory
+- Indonesian content goes in `/id/` directory
+- Maintain consistent structure across both languages
+- Use natural Indonesian translations, not literal word-for-word translations
+- Ensure all navigation links point to correct language-specific paths (`/en/` or `/id/`)
