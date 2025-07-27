@@ -9,14 +9,32 @@
 	},
 	"favicon": "/favicon.svg",
 	"navigation": {
-		"groups": [
+		"languages": [
 			{
-				"group": "Getting Started",
-				"pages": ["index", "installation", "configuration"]
+				"language": "en",
+				"groups": [
+					{
+						"group": "Getting Started",
+						"pages": ["en/index", "en/installation", "en/configuration"]
+					},
+					{
+						"group": "Using Decine",
+						"pages": ["en/usage", "en/requests", "en/troubleshooting"]
+					}
+				]
 			},
 			{
-				"group": "Using Decine",
-				"pages": ["usage", "requests", "troubleshooting"]
+				"language": "id",
+				"groups": [
+					{
+						"group": "Memulai",
+						"pages": ["id/index", "id/installation", "id/configuration"]
+					},
+					{
+						"group": "Menggunakan Decine",
+						"pages": ["id/usage", "id/requests", "id/troubleshooting"]
+					}
+				]
 			}
 		]
 	},
