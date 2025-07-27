@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mintlify-docs": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "/Users/dimaz/.mcp/mintlify/src/index.js"
+      ],
+      "env": {}
+    }
+  }
+}
